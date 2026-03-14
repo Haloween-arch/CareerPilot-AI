@@ -1,0 +1,8 @@
+pip install fastapi uvicorn
+pip install python-multipart
+pip install pdfplumber
+pip install python-docx
+pip install google-genai
+pip install scikit-learn
+pip install python-dotenv
+pip install reportlab
