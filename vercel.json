@@ -1,0 +1,9 @@
+{
+    "function": 
+        { 
+            "api/index.py": {
+                "runtime": "@vercel/python"
+                
+            }
+        }
+}
